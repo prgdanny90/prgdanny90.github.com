@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+[Markdown] Github.io 블로그 시작!
+======================
 
-You can use the [editor on GitHub](https://github.com/prgdanny90/prgdanny90.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# 1 시작!
+## 1.1 목적
+우선 대학교에서 배운 내용들을 정리할 블로그를 만드려던중.. 배보다 배꼽이 더클것 같은 예상이 들었습니다. 포트폴리오도 정리를 해야 하고, 또 공부도 해야하는데 그럼 언제 이걸 다하나 싶었습니다. 얼씨구? 즐겨찾기도 난리가 났네요 조금씩 정리해나가며 필요한 내용들을 하나씩 차근차근 옮겨갈 예정입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1.2 기술될 내용들
+1. 대학교에서 배운 내용(필기, 과제 등..)
+2. 포트폴리오
+3. 즐겨찾기
+4. <del>때에 따라 잠이 안오면 헛소리</del>
 
-### Markdown
+## 1.3 참고
+1. **[Atom 을 마크다운...](http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/)** 아톰으로 편집할 예정입니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. **[마크다운 문법](https://gist.githubusercontent.com/ihoneymon/652be052a0727ad59601/raw/6ad0c9d4b539d276b91cef6d56cee5755a19726f/gistfile1.md)** 아직 서툴기 때문에 많이 참고할 예정입니다.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prgdanny90/prgdanny90.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. **[마크다운 문법2 - 서지스윈 @IT](http://sergeswin.com/1013)** 여기서도 마크다운 문법에 대해 많이 참고 하고 있습니다.
