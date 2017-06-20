@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 즐겨찾기
 ---
 ## 1.1 볼 예정
 http://loustler.io/
